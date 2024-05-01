@@ -1,14 +1,28 @@
 {
   "expo": {
-    "name": "doctorApp",
-    "slug": "doctorApp",
+    "name": "Al-Tabib Connect",
+    "slug": "AlTabibConnect",
     "version": "1.0.0",
+    "scheme": "AlTabibConnect",
+    "web": {
+      "bundler": "metro",
+      "output": "static",
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "expo-router",
+      "expo-build-properties"
+    ],
+    "experiments": {
+      "typedRoutes": true,
+      "tsconfigPaths": true
+    },
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/splash.png",
-      "resizeMode": "contain",
+      "resizeMode": "cover",
       "backgroundColor": "#ffffff"
     },
     "assetBundlePatterns": [
@@ -22,17 +36,18 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.syedanasahmed.doctorApp"
+      "package": "com.devfynals.AlTabibConnectPatient",
+      "googleServicesFile": "./google-services.json",
+      "config": {
+        "usesClearTextTraffic": true
+      }
     },
-    "web": {
-      "favicon": "./assets/favicon.png"
-    },
-    "plugins": [
-      "expo-secure-store"
-    ],
     "extra": {
+      "router": {
+        "origin": false
+      },
       "eas": {
-        "projectId": "258e2e85-751f-4d07-958d-beb8951cc634"
+        "projectId": "a8c49790-adb1-4f30-aec5-2cb6d2f2ab88"
       }
     }
   }

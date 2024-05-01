@@ -2,7 +2,7 @@
 
 ## Splash Screen
 
-[Description of the splash screen functionality]
+<img src="https://github.com/Syed-Anas-Ahmed/Al-Tabib-Development/raw/main/screenshots/splash.png" width="70%" alt="Splash Screen">
 
 ## Login/Register
 

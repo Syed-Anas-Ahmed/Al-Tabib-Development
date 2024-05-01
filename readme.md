@@ -2,7 +2,7 @@
 
 ## Splash Screen
 
-<img src="https://github.com/Syed-Anas-Ahmed/Al-Tabib-Development/raw/main/screenshots/splash.png" width="70%" alt="Splash Screen">
+<img src="https://github.com/Syed-Anas-Ahmed/Al-Tabib-Development/raw/main/screenshots/splash.png" width="30%" alt="Splash Screen">
 
 ## Login/Register
 

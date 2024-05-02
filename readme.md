@@ -27,14 +27,11 @@
 
 ## My Family
 
-<img src="https://github.com/Syed-Anas-Ahmed/Al-Tabib-Development/blob/main/screenshots/book%202.png" width="25%" alt="Al Tabib Family 1">
-<img src="https://github.com/Syed-Anas-Ahmed/Al-Tabib-Development/blob/main/screenshots/add%20family.png" width="25%" alt="Al Tabib Family 2">
-<img src="https://github.com/Syed-Anas-Ahmed/Al-Tabib-Development/blob/main/screenshots/success%20familt.png" width="25%" alt="Al Tabib Family 3">
+<img src="https://github.com/Syed-Anas-Ahmed/Al-Tabib-Development/blob/main/screenshots/book%202.png" width="25%" alt="Al Tabib Family 1"><img src="https://github.com/Syed-Anas-Ahmed/Al-Tabib-Development/blob/main/screenshots/add%20family.png" width="25%" alt="Al Tabib Family 2"><img src="https://github.com/Syed-Anas-Ahmed/Al-Tabib-Development/blob/main/screenshots/success%20familt.png" width="25%" alt="Al Tabib Family 3">
 
 ## Notifications
 
-<img src="https://github.com/Syed-Anas-Ahmed/Al-Tabib-Development/blob/main/screenshots/notifications%201.png" width="25%" alt="Al Tabib Notifications 1">
-<img src="https://github.com/Syed-Anas-Ahmed/Al-Tabib-Development/blob/main/screenshots/notifications%202.png" width="25%" alt="Al Tabib Notifications 2">
+<img src="https://github.com/Syed-Anas-Ahmed/Al-Tabib-Development/blob/main/screenshots/notifications%201.png" width="25%" alt="Al Tabib Notifications 1"><img src="https://github.com/Syed-Anas-Ahmed/Al-Tabib-Development/blob/main/screenshots/notifications%202.png" width="25%" alt="Al Tabib Notifications 2">
 
 ## Profile
 

@@ -1,4 +1,4 @@
-# Al Tabib
+# Al Tabib Mobile App (Beta)
 
 ## Splash Screen
 
@@ -36,3 +36,9 @@
 ## Profile
 
 <img src="https://github.com/Syed-Anas-Ahmed/Al-Tabib-Development/blob/main/screenshots/profile.png" width="25%" alt="Al Tabib Profile">
+
+# Portal (Under Development)
+
+## Dashboard
+
+<img src="https://github.com/Syed-Anas-Ahmed/Al-Tabib-Development/blob/main/screenshots/Screenshot%20(90).png" width="25%" alt="Al Tabib Clinic Portal">
